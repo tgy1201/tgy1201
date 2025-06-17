@@ -14,6 +14,10 @@
   
 - 📫 Email me at dndsm82@gmail.com
 
+<h2>🎖️ | Ranking  </h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dndsm82)](https://solved.ac/dndsm82/)
+
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">

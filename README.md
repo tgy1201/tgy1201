@@ -22,7 +22,7 @@
 
 <div align="center" style="display: flex;">
 <a href="https://github.com/tgy1201">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tgy1201&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tgy1201&show_icons=true&theme=default&count_private=true&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgy1201&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
